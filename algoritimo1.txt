@@ -1,0 +1,4 @@
+leia X
+Leia Y 
+leia resultado X + Y 
+resultado  
