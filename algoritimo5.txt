@@ -1,0 +1,5 @@
+1. leia lista 
+2. procure item no meio da lista 
+3. indique achou o item procurado 
+4. coloque o item em ordem
+5. fim
