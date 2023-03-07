@@ -1,0 +1,7 @@
+1.leia lista
+2.leia tamanho-lista 
+3. soma = 0 
+4 para cada elemento da lista faça:
+5.  soma = elemento + soma 
+6. media = soma/tamanho_lista
+7. escreva média 
