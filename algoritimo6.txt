@@ -1,0 +1,5 @@
+1: leia numero 5^4
+2: para 5^4
+3: escrva 5*5) 5*5) 5*5) 5*5)
+4 resultado 
+
