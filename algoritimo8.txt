@@ -1,0 +1,6 @@
+1: leia A
+2: leia b
+3: leia h
+4: para A:
+5: faça A = b*h/2
+6: resposta
